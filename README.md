@@ -1,2 +1,1 @@
-# pyci-web
-PyCI Flask Web application
+# pyci monorepo
